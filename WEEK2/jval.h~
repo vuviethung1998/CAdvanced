@@ -1,0 +1,117 @@
+#ifndef _JVAL_H_
+#define _JVAL_H_
+#include <string.h>
+#define RAND_MAX 32000
+typedef union {
+    int i;
+    long l;
+    float f;
+    double d;
+    void *v;
+    char *s;
+    char c;
+    short sh;
+  } Jval;
+
+Jval new_jval_i(int i){ Jval j; j.i = i; return j; }
+Jval new_jval_l(long l){ Jval j; j.l = l; return j; }
+Jval new_jval_f(float f){ Jval j; j.f = f; return j; }
+Jval new_jval_d(double d){ Jval j; j.d = d; return j; }
+Jval new_jval_v(void *v){ Jval j; j.v = v; return j; }
+Jval new_jval_s(char *s){ Jval j; strcpy(j.s,s); return j; } 
+Jval new_jval_c(char c) { Jval j; j.c = c; return j; }
+Jval new_jval_sh(short sh) {Jval j; j.sh = sh; return j; }
+
+int jval_i(Jval j) {return j.i;}
+double jval_d(Jval j){return j.d;}
+long jval_l(Jval j) {return j.l;}
+float jval_f(Jval j ){return j.f;}
+char jval_c(Jval j){return j.c;}
+short jval_sh(Jval j){return j.sh;}
+char* jval_s(Jval j){return j.s;}
+void* jval_v(Jval j){return j.v;}
+
+void sort_gen ( Jval a[], int l, int r, int (*compare)
+(Jval*, Jval*) );
+
+int search_gen ( Jval a[], int l, int r, Jval item, int
+(*compare)(Jval*, Jval*) );
+
+
+//compare int
+int compare_i(Jval* a, Jval* b) {
+  if ( jval_i(*a)==jval_i(*b) ) return 0;
+  if ( jval_i(*a) < jval_i(*b) ) return -1;
+  else return 1;
+}
+
+
+//sort int 
+void sort_i (Jval a[], int l, int r) {
+  sort_gen(a, l, r, compare_i);
+}
+
+int search_i (Jval a[], int l, int r, int x) {
+  return search_gen(a, l, r, new_jval_i(x), compare_i);
+}
+
+void sort_gen ( Jval a[], int l, int r, int (*compare)(Jval*, Jval*) ){
+  
+}
+
+int search_gen ( Jval a[], int l, int r, Jval item, int(*compare)(Jval*, Jval*) ){
+
+}
+
+
+//create array
+Jval* create_array_i (int n) {
+  Jval * array = (Jval *) malloc(sizeof(Jval)*n);
+  for (i=0; i<n; i++) array[i] = new_jval_i( rand() );
+  return array;
+}
+
+Jval* create_array_l (int n) {
+  Jval * array = (Jval *) malloc(sizeof(Jval)*n);
+  for (i=0; i<n; i++) array[i] = new_jval_l(rand()*(RAND_MAX+1) + rand(); );
+  return array;
+}
+
+Jval* create_array_f (int n) {
+  Jval * array = (Jval *) malloc(sizeof(Jval)*n);
+  for (i=0; i<n; i++) array[i] = new_jval_f( rand() + rand()*(float)0.2);
+  return array;
+}
+
+Jval* create_array_i (int n) {
+  Jval * array = (Jval *) malloc(sizeof(Jval)*n);
+  for (i=0; i<n; i++) array[i] = new_jval_i( rand() );
+  return array;
+}
+
+Jval* create_array_i (int n) {
+  Jval * array = (Jval *) malloc(sizeof(Jval)*n);
+  for (i=0; i<n; i++) array[i] = new_jval_i( rand() );
+  return array;
+}
+
+Jval* create_array_i (int n) {
+  Jval * array = (Jval *) malloc(sizeof(Jval)*n);
+  for (i=0; i<n; i++) array[i] = new_jval_i( rand() );
+  return array;
+}
+
+Jval* create_array_i (int n) {
+  Jval * array = (Jval *) malloc(sizeof(Jval)*n);
+  for (i=0; i<n; i++) array[i] = new_jval_i( rand() );
+  return array;
+}
+
+Jval* create_array_i (int n) {
+  Jval * array = (Jval *) malloc(sizeof(Jval)*n);
+  for (i=0; i<n; i++) array[i] = new_jval_i( rand() );
+  return array;
+}
+
+
+#endif

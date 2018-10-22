@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+//#include "jval.h"
+
+int main(){
+  float a,b;
+  a= (float)(rand()+(float)(rand()*0.1));
+  printf("%0.2lf", a);
+
+  return 0;
+}

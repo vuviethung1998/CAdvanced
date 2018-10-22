@@ -1,2 +1,0 @@
-# CAdvanced
-Code C
