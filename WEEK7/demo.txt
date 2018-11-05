@@ -1,0 +1,16 @@
+[STATIONS]
+S1	New York
+S2	London
+S3	Paris
+S4	California
+S5	Texas
+S6	Munchen
+S7	Singapore
+S8	Da Nang
+S9	Ha Noi
+[LINES]
+S1	S2	S4	S3	S7
+S3	S5	S6	S8	S9
+S4	S3	S7	S9	S5
+S7	S9	S6	S5	S4
+S8	S3	S7	S2	S1
