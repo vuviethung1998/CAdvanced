@@ -1,0 +1,56 @@
+Tao mot typedef struct cho tram:
+    - id tram
+    - ten tram
+    - tuyen di qua
+VD: 1 Chua Lien Phai 38 8
+
+Tao mot typedef struct cho tuyen:
+    -id tuyen
+    -id di qua
+VD: 04 862 657 54 20 223 747 605
+
+Sau do thi sao?
+Add vertex la mot diem(station_name.txt)
+Noi vertex voi cac vertex khac = cach doc (station_route.txt) de tao cac canh
+Moi canh dc danh dau bang ten tuyen
+Tim duong ngan nhat giua 2 tram 
+
+Chuc nang:
+1. Hien cac station_name kem them index
+2. Hien cac tram cua mot tuyen
+3. Tim duong ngan nhat tu mot tram den tram khac(dung index)
+4. Huong dan bat xe
+VD: Di tuyen 26 tu A-B roi di tuyen 36 tu B-C -> Tong quang duong:3.65km
+
+Tim duong ngan nhat:
+1 1 5 4.6
+1 1 4 3.2
+1 2 3 44.3
+node 1 node 2 -  id tuyen - khoang cach
+
+tu struct id tram - ten - cac tram di qua
+
+    // for(int i = 0; i < countStat; i++) {
+    //     printf("%d - %s -", statList[i].idStat,statList[i].name);
+    //     printf("\n");
+    // }
+
+    // for(int i = 0; i <countStat; i++) {
+    //     for(int j = 0; j < statList[i].countRoute; j ++) {
+    //         printf("%d ", statList[i].route[j]);
+    //     }
+    //     printf("\n");
+    // }
+    // for(int i = 0; i< countBus; i++) {
+    //     printf("%d ", busList[i].idBus);
+    //     for(int j = 0; j < busList[i].countStat; j++) {
+    //         printf("%d ", busList[i].routeStat[j]);
+    //     }
+    //     printf("\n");
+    // }
+    //getBusDistList("out.txt", busList, countBus);
+    // for(int i = 0; i < countBus; i ++) {
+    //     for(int j = 0; j < busList[i].countStat - 1; j ++) {
+    //         printf("%d %d %.3f\n", busList[i].distance[j].node1, busList[i].distance[j].node2, busList[i].distance[j].distance);
+    //     }
+    // }

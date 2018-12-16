@@ -1,0 +1,877 @@
+1/Chua Lien Phai 
+2/Fenice 
+3/Fenice 
+4/Secret Cafe 
+5/Mercedes Showroom 
+6/Lolotica 
+7/Vien Lao Khoa TW 
+8/Benh Vien K 
+9/Hong Ky 
+10/Duong Quang 
+11/1303 N05 
+12/Dong Quang 
+13/Vien KHCN Mo - Vinacomin 
+14/Phu Lam 
+15/Akai Karaoke 
+16/Chua Van Nien 
+17/Brickhouse 
+18/C3 Phuong Liet 
+19/Tra da Lac Trung (385) 
+20/UMA 
+21/Tri Qua 
+22/Kaffe Cay Xang 
+23/Vinafor Building 
+24/Kaffe Cay Xang 
+25/Bao Tang Phong Khong Khong Quan (Air Force Museum) 
+26/Chua Bang 
+27/Fivimart 
+28/Rùng (Forest) 
+29/Long Bien 
+30/Pham Ngoc Thach Medicine Intermediate 
+31/Madame Huong Bakery 
+32/Moc Lien Quan 
+33/Phung Cong 
+34/Linh Dam Lake 
+35/Cafe Huy 
+36/Ham Kim Lien (Dai Co Viet) 
+37/Bia Viet Ha 
+38/Ga Giap Bat 
+39/Cho Lang Ha A 
+40/Tre Place 
+41/Lotteria 
+42/Thaco Kia Giai Phong 
+43/Vietcombank 
+44/C3 Phuong Liet 
+45/UMA 
+46/Phu Lo 
+47/Cho Linh Nam 
+48/Ciputra Hanoi International City - Main Office 
+49/Lobby B - Noi Bai International Airport 
+50/Goc Dim Sum 
+51/Quan Hoa Lo Ngo 374 Au Co 
+52/Bun Moc 
+53/Bia Hoi La Vong 
+54/Cho Linh Nam 
+55/Vinh Tam 
+56/Huong Que 
+57/Ga Gia Lam (Gia Lam Station) 
+58/Lotteria 
+59/Toyota 
+60/Kim Son 
+61/Highlands Coffee 
+62/Cafe Diep Chi 
+63/Cho Xe May Cu Dich Vong 
+64/Bohemia West Lake Cafe 
+65/KFC 
+66/Chatime 
+67/Bang Lang 
+68/Minh Dao 
+69/Duong Xa 
+70/Serein CF 16 Tran Nhat Duat 
+71/EVN Finance 
+72/Cafe Kieu 
+73/KTX Bach Khoa 
+74/Can Phong Be Nho 
+75/ITCream 
+76/Sidewalk 
+77/Cafe 37 Thai Phien 
+78/Quang Minh 
+79/Pho Hung 
+80/Dai Hoc Xay Dung Ha Noi (National University of Civil Engineering) 
+81/Quan Hoa Lo Ngo 374 Au Co 
+82/Star Club 
+83/Co Bi 
+84/Truong Dao Tao Can Bo Le Hong Phong 
+85/Dong Anh 
+86/Shop 
+87/Cau Dien 
+88/Hong Ky 
+89/Up To Seconds 
+90/Duong Quang 
+91/California Fitness & Yoga Quan Hai Ba Trung 
+92/Hai San Thang Ngoc 
+93/Thai Express 
+94/Tram Dang Kien 29-03V 
+95/Can Phong Be Nho 
+96/French Department 
+97/Dai Su Quan Trung Quoc (Embassy of China) 
+98/Ninh Son 
+99/Cong Caphe 08 Thai Ha 
+100/Tri Qua 
+101/Kichi Kichi 
+102/Quang Anh CF 
+103/Buffet Viet 
+104/Trieu Tuan Digital Professional 
+105/Cho Phung Khoang 
+106/Cau To 
+107/Banh Cuon 
+108/Long Bien 
+109/Chic Coffee 
+110/Huu Nghi Hospital 
+111/Bo Giao Thong Van Tai 
+112/Thien Vien Sung Phuc 
+113/Hai Xom 
+114/Phung Cong 
+115/Dai Hoc Khoa Hoc Tu Nhien 
+116/Metro 
+117/Nha Hang Ngu Binh 
+118/Do Nuong 
+119/Kieu Ky 
+120/TASS - A Unit Of University Of Social Sciences and Humanities 
+121/Do Nuong 
+122/Thanh Cong Tower 
+123/Kieu Ky 
+124/Bun Ca Ro Dong 
+125/Banh My Trung Thanh 
+126/Bien Phong Tennis Court 
+127/Chau Khe 
+128/Dinh Cong 
+129/Cho Nghia Tan 
+130/Phuong Nail 
+131/Pho Thuong 
+132/Ho Ba Mau 
+133/Ronaldo Cafe 
+134/Pilsner Urquell Original Restaurant - Hoavien 
+135/Tran Phu 
+136/Den Mau 
+137/V-Tower 
+138/Secret Cafe 
+139/Toyota 
+140/Kim Son 
+141/Highlands Coffee Linh Dam 
+142/Toa Nha ICON 4 
+143/Hai Vit 
+144/Cau Thang Long (Thang Long Bridge) 
+145/Hoa Binh Green City 
+146/Ho Cau Son Thuy 
+147/Gino Cafe 
+148/Hoc Vien Ky Thuat Quan Su 
+149/Burger King 
+150/Dai Dong Thanh 
+151/Supermarket Aeon Mall LB 
+152/King Taiyaki 
+153/Thuong Cat 
+154/Mai Lam 
+155/Ran The Hung(Snake Meat Restaurant) 
+156/Giant 
+157/Hoa Binh Green City 
+158/Casa Mia Restaurant 
+159/Mai Lam 
+160/Ninh Son 
+161/Circle K Thai Thinh 
+162/Cau Vuot Bo - Bach Mai 
+163/Rand Moroc & Coffee 
+164/Chua Tao Sach 
+165/Co Loa 
+166/GoldMalt 
+167/BRO Legend Hill Golf Resort By ZAK 
+168/Hanoi Radio-Television Broadcasting 
+169/T-Box 
+170/Cafe Kieu 
+171/Nhang Nuong 
+172/Le Grand Hotel 
+173/Hong Ky 
+174/Duong Quang 
+175/Hoc Vien Ky Thuat Quan Su 
+176/Azuma 
+177/Hai San Ngon 
+178/Duc Tu 
+179/French Department 
+180/Linh Nam 
+181/Toyota Giai Phong 
+182/Embassy of Ukraine 
+183/Xuan Lam 
+184/Hang Vui 
+185/Ministry of Industry & Trade (Bo Cong Thuong) 
+186/Tam Son 
+187/Mai Lam 
+188/Quán U Trang 
+189/Ding Tea 
+190/Huyen Anh Cafe 
+191/Brasserie Le Pavillon 
+192/Quan Ho Lieu 
+193/Dong Du 
+194/Bao Tang Phong Khong Khong Quan (Air Force Museum) 
+195/Phung Cong 
+196/SAKURA HOTEL 
+197/Metro 
+198/THIKECO Investment Consultancy for Development and Construction J.S.C. 
+199/Hoc Vien Ky Thuat Quan Su 
+200/Hoa Viet Cafe 
+201/Rùng (Forest) 
+202/Truong Tieu Hoc Song Ngu Quoc Te Brendon 
+203/Duong Xa 
+204/So Cong Thuong Ha Noi 
+205/Cuu Cao 
+206/Mai Lam 
+207/Metro 
+208/Tam Son 
+209/Ronaldo Cafe 
+210/Han Viet Tower 
+211/Pha Lau Nguoi Hong Kong 
+212/Saint-Honore 
+213/Hoang Van Thu 
+214/Chatime 
+215/Trau Quy 
+216/Mien Luon Tan Tan Tue Tinh-Mai Hac De 
+217/So Hot Karaoke 
+218/Pho Co Diep 
+219/Phu Lam 
+220/Bun Bo Hue Duyen Duyen 
+221/Kim Son 
+222/Circle K 
+223/Golden Time Hostel 2 
+224/Anise Hotel 
+225/Cafe Diep Chi 
+226/Mi Han Quoc 
+227/Lang Quoc Te Thang Long 
+228/Dong Quang 
+229/Ngan Anh Bakery 
+230/Xuan Phuong 
+231/Dai Dong Thanh 
+232/GoGi House 
+233/Diamond Palace 
+234/Yen Thuong 
+235/Cau Thang Long (Thang Long Bridge) 
+236/Yen So 
+237/Che Nhat Minh 
+238/Co Loa 
+239/Metro Cash & Carry 
+240/Cafe 2F 
+241/Da Ton 
+242/Can Phong Be Nho 
+243/CA Quan Thanh Xuan 
+244/Van Giang 
+245/Vi Bien 
+246/Tien Son 
+247/Thuong Thanh 
+248/Thaco Kia Giai Phong 
+249/Thuong Thanh 
+250/Mango 
+251/Cappuccino Cafe 
+252/Ho Cau Son Thuy 
+253/Che Da Nang 
+254/Dong Phong 
+255/Hong Ky 
+256/Bud Cafe 
+257/Duong Xa 
+258/Vietcombank 
+259/Playtime-Lotte Centre Tower 
+260/Pho Bo 111 
+261/Max 3 
+262/Jamocha 
+263/Dinh Du 
+264/North Gate 
+265/PuPe Hair Salon 
+266/Thuy Nga Plaza 
+267/Sanh Quan 22 Huynh Thuc Khang 
+268/Vinacomin - Tap Doan Than & Khoang San VN 
+269/Enter Karaoke 
+270/KTX Bach Khoa 
+271/Xuan Lam 
+272/Nuong Nha Mam 
+273/Muong Thanh Ha Noi 
+274/Al Noor Mosque (Thanh duong Hoi Giao) 
+275/Vien KHCN Mo - Vinacomin 
+276/M69 Restaurant 266 Linh Nam 
+277/Vi Bien 
+278/Dong Du 
+279/Ninh Son 
+280/Van Giang 
+281/BIDV Dong Do 
+282/Hai Yen 
+283/Dai Su Quan Indonesia (Embassy of Indonesia) 
+284/Lau Sy Phu 152 Lang 
+285/Pho Co Dinh Cong 
+286/Pho Ha Noi 129 Hoang Van Thai 
+287/Hoc Vien Ky Thuat Quan Su 
+288/Cau Mai Dong 
+289/Tra Chanh-Cho Gao 
+290/Somerset Hoa Binh 
+291/Lotteria 
+292/Linh Nam 
+293/Bee Cafe 
+294/Adidas Original Store 
+295/Unimart 
+296/CWD Canteen 
+297/Pho Thuong 
+298/Yen Thuong 
+299/Linh Nam 
+300/Dragon Cafe 
+301/Rewind Cafe 
+302/Cho Nhat Tan (Nhat Tan Market) 
+303/Vien Lao Khoa TW 
+304/Hong Ky 
+305/Trung Tam Van Hoa Han Quoc (Vietnam-Korean Culture Centre) 
+306/Kim Son 
+307/Chua Lang 
+308/Metro 
+309/Fresh Mart 
+310/Secret Cafe 
+311/Brickhouse 
+312/Riverside Hanoi Hotel 
+313/Dong Du 
+314/Tam Son 
+315/Ho Cau Phi Truong 
+316/Thanh Khuong 
+317/Kindle Cafe 
+318/Cho Buoi 
+319/Cafe Diep Chi 
+320/Bun Cha 
+321/Cafe 61 
+322/Bike Care 
+323/Le Grand Hotel 
+324/MediaStar Electronics Supermarket 
+325/Electric Power University EVN 
+326/Cu Khoi 
+327/Phung Cong 
+328/Nha Hang Ngon 
+329/Hong Ha Hotel 
+330/Kieu Ky 
+331/Dim Sum Corner 
+332/Zpizza 
+333/Truong Quoc Te Viet My 
+334/Cau Den 
+335/Monkey Juice 
+336/Hong Ky 
+337/Rap Dai Nam (Dai Nam Theatre) 
+338/Duong Xa 
+339/Tam Son 
+340/Ucie Innerspace 
+341/Cau Den 
+342/Cho Linh Nam 
+343/Tra da 
+344/Bun Ca Phuong Beo 
+345/Ham Kim Lien (Dai Co Viet) 
+346/Pho 10 Ly Quoc Su 
+347/Truong THPT Tay Ho 
+348/Bun Met 57A Linh Nam 
+349/Chua Van Nien 
+350/Vien KHCN Mo - Vinacomin 
+351/Chè Gõ 09 Tran Phu 
+352/Xuan Lam 
+353/Nuoc Mam Dat Viet 
+354/KFC 
+355/Chua Lien Phai 
+356/Anh Ngu ACET 
+357/Cho Thai Ha 
+358/Hero Bar 
+359/Cafe Kieu 
+360/Secret Cafe 
+361/Quan Tran Ha Noi 
+362/Agribank 
+363/Long Hung 
+364/Cafe So 6 
+365/Cho Mo 
+366/Dong Anh 
+367/Ga 36 
+368/Ben Xe Giap Bat (Bus Station) 
+369/Rasa Singapura 
+370/Pho Dung Co So 8 Ngo 126 Vinh Hung 
+371/THE COFFEE HOUSE TRUNG HOA 
+372/Muong Thanh Ha Noi 
+373/Techcombank Tam Trinh 
+374/Linh Nam 
+375/FIS 101 Lang Ha 
+376/Thuy Nga Plaza 
+377/Cung The Thao Quan Ngua (Quan Ngua Stadium) 
+378/Banh Com Nguyen Ninh 
+379/Cowboy Jack's 
+380/Tu Hiep 
+381/Thien Son Tra Quan 
+382/Casa Mia Restaurant 
+383/Muong Thanh Ha Noi 
+384/Hong Ky 
+385/Unimart 
+386/Kim Son 
+387/Thanh Nhan Dog Meat (Thit Cho Thanh Nhan) 
+388/Duc Tu 
+389/Pizza Belga 
+390/Kichi Kichi 
+391/Dai Hoc Kinh Te Ky Thuat Cong Nghiep 
+392/Karaoke Son Ca 
+393/Ga 36 
+394/Pho Hung 
+395/Thanh Khuong 
+396/Kem Ho Tay 
+397/HIPT Building 
+398/Cafe Pho 
+399/Cho Hoa Kim Nguu 
+400/Honda Head Office 
+401/Chua Bang 
+402/Chau Khe 
+403/Linh Dam Lake 
+404/Dai Hoc Khoa Hoc Tu Nhien 
+405/Dong Quang 
+406/The KAfe 
+407/Cu Khoi 
+408/Cafe 71 
+409/Melia Hanoi Business Center 
+410/Babi Plaza - The Gioi Do Choi 
+411/Pho Bo Vu Tru 
+412/Phung Cong 
+413/Linh Dam Lake 
+414/PS3 
+415/Ho Xuan Que 
+416/Vingroup Office 
+417/Quoc Huy Anh Corp - Ha Noi Branch 
+418/Nhat Hong 
+419/Hoa Long 
+420/Vuon Hoa Pasteur 
+421/Bac Son 
+422/Duong Xa 
+423/Nhang Nuong 
+424/Chez Manon 
+425/Hair Stream Salon Nail&Spa 
+426/Be Boi Bon Mua 
+427/Prince Hotel Hanoi 
+428/Bun Cha 
+429/Rasa Singapura 
+430/Pho Dung Co So 8 Ngo 126 Vinh Hung 
+431/Kedutaan Besar Republik Indonesia 
+432/Justsee Coffee 
+433/Phỏ Bản 
+434/Banh Cuon Thai Thinh 
+435/Xuan Lam 
+436/Lotteria 
+437/Nhat Ly 
+438/Nhu Quynh 
+439/Berry Takeaway Drinks 
+440/Dai Hoc Xay Dung Ha Noi (National University of Civil Engineering) 
+441/Cau Vuot Bo - Bach Mai 
+442/Hoa Lu De Nhat Quan 
+443/Bun Oc Moi Doi Dien Nha Mung Vui 
+444/Cuu Cao 
+445/Trau Quy 
+446/Pizza Hut 
+447/Cong Vien Ngoc Lam 
+448/Bun Dau Nga 
+449/Hapro Food 
+450/Tran Phu 
+451/Viet Hung 
+452/Dai Hoc Cong Doan 
+453/Cafe Nuoi 
+454/The 8th Note Cafe 
+455/Cho Mo 
+456/Benh Vien K 
+457/Pepper Lunch 
+458/Benh Vien Phoi Trung Uong 
+459/Van Phong Pham Hong Ha 
+460/Quoc Trieu 
+461/Nexttop Nightclub 
+462/San Bong Viettel 2 
+463/Shop Tre Tho 
+464/The KAfe 
+465/Dan Toc Quan 
+466/Hong Ky 
+467/Oasis Hotel Hanoi 
+468/Duong Quang 
+469/Cau Thang Long (Thang Long Bridge) 
+470/Yen Thuong 
+471/Phu Lam 
+472/Kaffe Cay Xang 
+473/Family Medical Practice 
+474/Quan Gia Dinh - My Van Than Sui Cao 
+475/ABC Coffee 
+476/Nuong Han Quoc 
+477/Hai Ma 
+478/Tri Qua 
+479/Gia Phong Garage 
+480/Bun Cha Ngoc Xuan 
+481/Jolibee 
+482/Thanh Tri 
+483/Cau To 
+484/Pho Hien 138 Nguyen Chi Thanh 
+485/Lotteria 
+486/Little India 
+487/Tre Viet - Vuon Dien anh 
+488/Bun Bo Hue Quynh Beo 
+489/Long Bien 
+490/Buu Dien Ha Noi (Hanoi Post Office) 
+491/Long Bien 
+492/Cong Vien Ly Tu Trong 
+493/Xuan Quan 
+494/Nang Sai Gon Cafe 
+495/Be Boi Bon Mua 
+496/Bun Cha 
+497/Nha Van Hoa Hoc Sinh - Sinh Vien 
+498/Kieu Ky 
+499/Banh My Thit Xien Nuong Ba Nga 
+500/Tan Quang 
+501/Thuong Thanh 
+502/Phu Linh 
+503/Chan Ga Nuong Thuy Khue 
+504/Ciputra Hanoi International City - Main Office 
+505/Cafe Hai 50 Hang Vai 
+506/UMA 
+507/Com Nieu Thuy Nga 
+508/The JaMocha Villa 
+509/Pho Dung Co So 8 Ngo 126 Vinh Hung 
+510/Pho Thuong 
+511/GoldMalt 
+512/CAFE A&V 
+513/Lotteria Bach Mai 
+514/Bun Ca Han Thuyen 
+515/Kim Son 
+516/Ga 36 
+517/Cau Den 
+518/Cay Xang Doi Dien Truong Bao Chi 
+519/Bia Hoi Nam Coi 
+520/Bia Suu 
+521/Army Hotel 
+522/Hang Phim Tai Lieu Quoc Gia - Documentary Film 
+523/Dai Dong Thanh 
+524/Da Ton 
+525/Cay Cau Restaurant 
+526/Cau Mai Dong 
+527/Manh Chien Dental 
+528/Vuon Nam Bo 
+529/Fivimart 
+530/Duong Xa 
+531/Ninh Son 
+532/Cho Dai Tu 
+533/Bien Phong Tennis Court 
+534/Lau 24 Phung Hung 
+535/Candle Hotel Hanoi 
+536/Ninh Son 
+537/Thien Y 
+538/Fenice 
+539/Minh Hair 
+540/Song Hong Park View 
+541/Tra Chanh Ly Thai To 
+542/Pho 24 
+543/Hong Ky 
+544/Techcombank Tam Trinh 
+545/Duong Quang 
+546/Co Loa 
+547/Truong THPT Tay Ho 
+548/Tran Phu 
+549/Hoa Long 
+550/Quan Hoa Lo Ngo 374 Au Co 
+551/Huu Nghi Hospital 
+552/University of Languages and International Studies - VNU 
+553/Time Coffee 
+554/Gara Minh Hang 
+555/Embassy of Ukraine 
+556/Tri Qua 
+557/G-one Coffee 
+558/Fivimart 
+559/Nha Hat Quan Doi (Army Theatre) 
+560/Al Fresco's 
+561/Tam Son 
+562/Hung Thanh Travel 
+563/Muong Thanh Ha Noi 
+564/Ho Cau Son Thuy 
+565/Quan Ho Lieu 
+566/Phuong Triumph 
+567/Dai Hoc Kinh Doanh Va Cong Nghe Ha Noi 
+568/Ninh Son 
+569/Dong Du 
+570/Dong Nguyen 
+571/Cho Nghia Tan 
+572/Phung Cong 
+573/Cafe 328 Minh Khai 
+574/WeTrek 
+575/Ha Duong Palace 
+576/Kim - Bun Cha 
+577/BRO Legend Hill Golf Resort By ZAK 
+578/Moon View Hotel 
+579/GoGi House 
+580/Pho Vuon Thu Do 
+581/Dinh Du 
+582/Vien KHCN Mo - Vinacomin 
+583/Kieu Ky 
+584/Dai Hoc Kinh Te Ky Thuat Cong Nghiep 
+585/Nhu Quynh 
+586/ITCream 
+587/Maxx Cafe 
+588/Parkson Landmark 72 
+589/Toyota 
+590/San Van Dong Bach Khoa 
+591/Han Kook Kwan 
+592/Fivimart 
+593/Nha Sach Tri Tue 
+594/Topone KTV 
+595/Maison Sens 
+596/Hoa Long 
+597/Twenty Coffee 
+598/Kim Son 
+599/Cho Dai Tu 
+600/Thien Nga 
+601/Cafe Diep Chi 
+602/Rua Xe Thuy An 
+603/Quan Tran Ha Noi 
+604/Pham Ngoc Thach Medicine Intermediate 
+605/Lau Rieu Cua 66 
+606/Chau Khe 
+607/Phu Linh 
+608/T&A-Ogilvy Hanoi 
+609/Dai Dong Thanh 
+610/Phu Thi 
+611/Pizza Belga 
+612/Benh Vien Viet Nam - Cuba 
+613/Nhu Quynh 
+614/Yen Thuong 
+615/Tam Son 
+616/Dinh Ba Chau 
+617/Pet Mart Kim Ma 
+618/Co Loa 
+619/Pho Thanh Ha 
+620/18T2 Trung Hoa-Nhan Chinh 
+621/BRO Legend Hill Golf Resort By ZAK 
+622/Quang Minh 
+623/Co Bi 
+624/Cuc Tan So 
+625/Long Hung 
+626/AHA Cafe Vo Thi Sau 
+627/Banh Trang Tron 48 Hang Tre 
+628/Yen Thuong 
+629/Dai Hoc Khoa Hoc Tu Nhien 
+630/Rewind Cafe 
+631/Ronaldo Cafe 
+632/Minh Rau Group Office 
+633/Ucie Innerspace 
+634/Metro Cash & Carry 
+635/Lau Oc Khuong Thuong 
+636/Phu Lam 
+637/Hong Ky 
+638/Nuong Sapa 
+639/Duong Quang 
+640/Cau Thang Long (Thang Long Bridge) 
+641/AROI Dessert Cafe 
+642/Pho Hung 
+643/Avocado Cafe 
+644/Cong Caphe Trung Yen 
+645/French Department 
+646/Bang Lang 
+647/Supermarket Aeon Mall LB 
+648/Tran Phu 
+649/Dai Tieng Noi Viet Nam (Voice of Vietnam Radio) 
+650/Giang Duy Dat 
+651/Hapro Food 
+652/Phu Linh 
+653/Bia Hoi Lan Chin 
+654/Sushi Kei M3-M4 Nguyen Chi Thanh 
+655/Bien Phong Tennis Court 
+656/Chau Khe 
+657/Quan Ca Mai Huy 
+658/Toyota 
+659/Dong Du 
+660/Truong Quoc Te Viet My 
+661/Quán U Trang 
+662/Phung Cong 
+663/Luc Thuy 
+664/Dori Cafe 
+665/Minh Rau Group Office 
+666/Acitive Fitness & Yoga 
+667/Kem Ho Tay 
+668/Lau Rieu 75 Nguyen Du 
+669/San Bong Viettel 2 
+670/Phu Linh 
+671/Yen Thuong 
+672/Cong Vien Ngoc Lam 
+673/Long Hung 
+674/Cau Lac Bo Bia 46 
+675/Tam Son 
+676/Dong Mai 
+677/Cau Thang Long (Thang Long Bridge) 
+678/Y Coffee 
+679/Linh Nam 
+680/Military Bank Office 
+681/Pho Chien Gion 
+682/Phung Hung Pho 
+683/Yen Thuong 
+684/Kan (Khang 寛) 
+685/Cho Linh Nam 
+686/Thanh Tri 
+687/Supermarket Aeon Mall LB 
+688/The Waves Coffee & Fastfood 
+689/Ga 36 
+690/Phu Lam 
+691/Tam Son 
+692/Kim Son 
+693/Thanh Nhan Dog Meat (Thit Cho Thanh Nhan) 
+694/Da Ton 
+695/Chua Tao Sach 
+696/Coco Jelly 
+697/Kem NZ 
+698/Tokyo Corner 
+699/Dong Quang 
+700/Vuvuzela 
+701/Ben Xe Long Bien 
+702/Da Ton 
+703/Electric Power University EVN 
+704/Thanh Khuong 
+705/Bo Khoa Hoc Cong Nghe 
+706/Tuong dai Bac Son 
+707/Phu Dien 
+708/Truong THPT Ly Thuong Kiet 
+709/Rùng (Forest) 
+710/Hanoi Sahul Hotel 
+711/Cafe Ay 
+712/Ocean Dental 
+713/Dong Du 
+714/Phu Lam 
+715/Cho Cau Giay 
+716/Van Giang 
+717/AHA CF 212 Ba Trieu 
+718/Ga Lu Ngo 43 Pham Ngoc Thach 
+719/Tan Quang 
+720/Vinh Quynh 
+721/Royal Gate Hotel 
+722/18T2 Trung Hoa-Nhan Chinh 
+723/Metro 
+724/Thuong Thanh 
+725/Chung Cu Vinh Phuc 
+726/Dong Phong 
+727/Hong Ky 
+728/MediaStar Electronics Supermarket 
+729/Duong Xa 
+730/Thanh Tri 
+731/Fpt Shop 325 Pho Hue 
+732/Dori Cafe 
+733/Gyu-Kaku 
+734/Fivimart 
+735/Agribank 
+736/Hanoi Lake View Hotel 
+737/Nha Hang Ngu Binh 
+738/Ho Cau Son Thuy 
+739/Ga 36 
+740/Le Chi 
+741/Pho Bo 
+742/Dại Học Y Hà Nọi (Hanoi Medical University) 
+743/Kinh Thien Palace (Dien Kinh Thien) 
+744/X Fitness Hanoi 
+745/So Cong Thuong Ha Noi 
+746/Che Cat Thanh 
+747/Sawasdee – Quan Ngon Thai 
+748/Parkson Landmark 72 
+749/Viet Duc Hospital 
+750/Da Ton 
+751/Metro 
+752/Van Giang 
+753/Kinh Thien Palace (Dien Kinh Thien) 
+754/Cafe Nhan 
+755/Diamond Palace 
+756/TST 
+757/Dai Su Quan Sec (Embassy of the Czech Republic) 
+758/Bao Phuong Banh Trung Thu 
+759/Bia Duc Troc 790 Lang 
+760/Supersports Royal City 
+761/Kinh Thien Palace (Dien Kinh Thien) 
+762/Truong THPT Tay Ho 
+763/Pepperonis Huynh Thuc Khang 
+764/Hanoi Radio-Television Broadcasting 
+765/KFC 
+766/Quan May-De La Thanh 
+767/Pho Thuong 
+768/Thuy Nga Plaza 
+769/Com Tam Suon To 
+770/CoCo Fresh Tea & Juice 
+771/Hong Ky 
+772/VTC Corporation 
+773/Duong Quang 
+774/Chua Lang 
+775/Java Garden Cafe 
+776/Dan Toc Quan 
+777/Pho Dung Co So 8 Ngo 126 Vinh Hung 
+778/Helio Cafe 
+779/Tran Phu 
+780/Dong Du 
+781/Tap The 3B Dang Thai Than 
+782/Thanh Khuong 
+783/Cafe 83 
+784/Pho 10 Ly Quoc Su 
+785/Ciputra Hanoi International City - Main Office 
+786/Cafe Kem Trung 
+787/Paris Deli 
+788/Tien Son 
+789/Tien Duong 
+790/Minh's Jazz Club 
+791/Metro Cash & Carry 
+792/Cu Khoi 
+793/L's Place 
+794/Cafe Trung Nguyen 
+795/Phung Cong 
+796/Da Ton 
+797/Pho 24 
+798/Cho Phung Khoang 
+799/Nhu Quynh 
+800/Quoc Huy Anh Corp - Ha Noi Branch 
+801/The Bistro 
+802/Pho Co Dinh Cong 
+803/Den Voi Phuc 
+804/Cong Vien Ngoc Lam 
+805/Hoa Long 
+806/Asean International Hotel 
+807/Banh Xeo Nem Lui Da Nang 
+808/Bac Son 
+809/Pho Ga Ta Thin Beo 
+810/Tan Quang 
+811/Co Loa 
+812/Yen Thuong 
+813/Metro Cash & Carry 
+814/Aquarius Legend Hotel 
+815/Cau Thang Long (Thang Long Bridge) 
+816/Ga 99 
+817/My Van Than Van Sach 
+818/Graffiti Wall Yen Phu 
+819/Dai Su Quan Singapore (Embassy of Singapore) 
+820/Kichi Kichi 
+821/POW POW Snow 
+822/Bun Ngan 
+823/Golden Sun Moment Hotel 
+824/Do Nuong 
+825/Dragonfly ( Phung Hung ) 
+826/Le Chi 
+827/Lotteria 
+828/Minh Rau Group Office 
+829/Cay Xang - De La Thanh 
+830/Heritage Hotel 
+831/Pho Dung Co So 8 Ngo 126 Vinh Hung 
+832/Bep Viet (Viet Spring) 
+833/Huu Nghi Hospital 
+834/Phung Hung Pho 
+835/Long Hung 
+836/Bun Cha Ngoc Xuan 
+837/KFC 
+838/CTM Mart 
+839/Cho Lang Ha A 
+840/Bac Son 
+841/Ga Gia Lam (Gia Lam Station) 
+842/Thaco Kia Giai Phong 
+843/Cafe New Wave 
+844/Pham Ngoc Thach Medicine Intermediate 
+845/Ho Cau Phi Truong 
+846/Pico 
+847/Van Dien 
+848/Dong Phong 
+849/Cafe Kem Trung 
+850/Mon Hue 
+851/Dong Anh 
+852/Chung Cu Lilama 
+853/Cowboy Jack's 
+854/Cafe New Wave 
+855/Kids Like Us 
+856/Troi 
+857/Bhaya Cruises Halong Bay 
+858/Toyota Vietnam 
+859/Ben Binh 
+860/Ben Xe Lac Long 
+861/Duyen Hai Hotel 
+862/Duyen Hai Hotel 
+863/Corner Cafe 
+864/Cho Sat
+865/Hey Tea 74 Nguyen Chi Thanh 
+866/かみぬま屋 
+867/かみぬま屋
+868/Metro 
+869/Thuong Ly 
+870/Thuong Ly 
+871/Thuong Ly 
+872/Thuong Ly 
+873/Cat Dai Hotel 
+874/Cat Dai Hotel 
+875/Trau Quy 
+876/Trau Quy 
+877/Bun Cha Nga Tu HQV
